@@ -28,7 +28,7 @@ print(response)
 
 #Giving IAM user details directly
 client1=boto3.client('s3',
-                     aws_access_key_id = "AKIA4B5VXORR5R576YVF",aws_secret_access_key = "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",
+                     aws_access_key_id = "******",aws_secret_access_key = "******",
                      region_name="us-east-1")
 response=client1.create_bucket(Bucket="boto3samp3")
 print(response)
