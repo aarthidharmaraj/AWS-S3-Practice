@@ -1,0 +1,14 @@
+{
+  "list1": {
+    "name": "tom",
+    "address": "xyz",
+    "mobile": "787568384",
+    "edition": "6th"
+  },
+  "list2": {
+    "name": "jerry",
+    "address": "abc",
+    "mobile": "987568384",
+    "edition": "5th"
+  }
+}

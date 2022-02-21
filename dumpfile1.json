@@ -1,0 +1,57 @@
+{
+   "states": [
+      {
+         "name": "TamilNadu",
+         "abbreviation": "TN",
+         "area_codes": [
+            "205",
+            "251",
+            "256",
+            "334",
+            "938"
+         ]
+      },
+      {
+         "name": "Kerala",
+         "abbreviation": "KL",
+         "area_codes": [
+            "907",
+            "465"
+         ]
+      },
+      {
+         "name": "Karnataka",
+         "abbreviation": "KN",
+         "area_codes": [
+            "480",
+            "520",
+            "602",
+            "623",
+            "928"
+         ]
+      },
+      {
+         "name": "Telangana",
+         "abbreviation": "TG",
+         "area_codes": [
+            "479",
+            "501",
+            "870"
+         ]
+      },
+      {
+         "name": "MadhyaPradhesh",
+         "abbreviation": "MP",
+         "area_codes": [
+            "209",
+            "925",
+            "949",
+            "951"
+         ]
+      },
+      {
+         "name": "AndhraPradhesh",
+         "abbreviation": "AP"
+      }
+   ]
+}
