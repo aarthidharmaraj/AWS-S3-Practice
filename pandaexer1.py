@@ -99,11 +99,11 @@ print(datafr.loc[0])
 #locating row with list of index
 print(datafr.loc[[0,3]])
 
-df=pd.DataFrame({'A':[1,2,3,4],
+df7=pd.DataFrame({'A':[1,2,3,4],
                  'B':pd.Timestamp('20220110'),
                  'C':pd.Series(1,index=list(range(4))),
                  'D':np.array([5]*4),
                  'E':pd.Categorical(['True','False','true','false']),
                  'F':'Pandas'
                  })
-print(df)#df.dtypes displays the datatypes of the columns
+print(df7)#df.dtypes displays the datatypes of the columns
