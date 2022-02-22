@@ -92,7 +92,7 @@ print(ts)
 ts.plot()
 plt.show()
 # #converting to csv
-ts.to_csv('plotfile.csv')#dataframe to csv file
+ts.to_csv('plottedfile.csv')#dataframe to csv file
 
 ##reading csv file
 df = pd.read_csv('details.csv')
