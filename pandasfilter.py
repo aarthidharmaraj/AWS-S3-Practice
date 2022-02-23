@@ -19,7 +19,7 @@ re3=(recsv['Country']!='United States') & (recsv['Country']!='France')
 print(recsv[re3])
 
 ##to exclude the contents
-re4=(recsv['Country']=='France')
+re4=(recsv['Country']=='United states')
 print(recsv[~re4])
 re4=recsv[~(recsv['Country']=='France') & ~(recsv['Country']=='Great Britain')]['Country'].unique()
 print(re4)
